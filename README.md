@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of an Artist's Discography on Spotify
 
-The goal of this project is to explore different features of the music by King Gizzard and the Lizard Wizard. I chose this musical group due to their expansive (217 songs) discography and eclectic mix of instruments and genres. Breaking these down 
+The goal of this project is to explore different features of the music by King Gizzard and the Lizard Wizard (KGLW). I chose this musical group due to their expansive (217 songs) discography and eclectic mix of instruments and genres. Breaking these down 
 
 ## Data Preparation
 * I used the Spotipy library to access the Spotify API and gather my data, which essentially collected all the information I wanted from I playlist I created on Spotify with all of KGLW's songs. The function can also be used for other playlists, and was used twice in this project.
